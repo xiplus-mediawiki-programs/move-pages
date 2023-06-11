@@ -1,0 +1,6 @@
+apicache-py3/
+list.csv
+pywikibot*.lwp
+throttle.ctrl
+user-config.py
+user-password.py
